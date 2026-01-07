@@ -1,7 +1,5 @@
 # Méthodes statistiques pour les données qualitatives - Analyse des champignons comestibles/toxiques
 
-![Bannière](https://via.placeholder.com/800x200?text=Mushroom+Classification+Project)
-
 Ce projet vise à analyser un jeu de données qualitatives décrivant des caractéristiques morphologiques de champignons pour déterminer leur comestibilité. Il combine des techniques statistiques avancées (ACM, CAH, analyse discriminante) afin d'identifier des motifs discriminants entre espèces comestibles et toxiques.
 
 ##  Jeu de données
@@ -32,7 +30,7 @@ Le dataset **Mushroom** contient 8 124 échantillons décrits par **22 variables
 
 1. Clonez le dépôt :
    ```bash
-   git clone https://github.com/amenallah01/Methodes-statistiques-pour-les-donnees-qualitatives.git
+   git clone https://github.com/Krissaan-amen/Methodes-statistiques-pour-les-donnees-qualitatives.git
    ```
 2. Installez les dépendances :
    ```bash
@@ -58,8 +56,6 @@ Le dataset **Mushroom** contient 8 124 échantillons décrits par **22 variables
 
 - **Krissaan Amen Allah**
   [ amen.krissaan@gmail.com](mailto:amen.krissaan@gmail.com)
-- **Bacha Amine**
-  [ ia_bacha@esi.dz](mailto:ia_bacha@esi.dz)
 
 ## License
 
